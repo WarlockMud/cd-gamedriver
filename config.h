@@ -334,7 +334,7 @@
 /*
  * SUPER_SNOOP_ALL
  *
- * With this defined, all player will be automatically snooped.
+ * With this defined, all players will be automatically snooped.
  */
 #define SUPER_SNOOP_ALL
 
